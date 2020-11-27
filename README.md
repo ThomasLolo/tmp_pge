@@ -1,7 +1,6 @@
 # Comment installer votre environnement
 
 > Si vous n'avez pas les droits le fichier **main_detect.py**
-
 `chmod u+x nodes/main_detect.py`
 
 Construire le package 
