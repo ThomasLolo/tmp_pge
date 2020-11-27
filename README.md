@@ -1,20 +1,6 @@
 # Comment installer votre environnement
 
-> Si vous ne travaillez pas dans catkin_ws à vous d'adapter votre chemin. 
-
-Tapez : 
-
-`cd ~/catkin_ws/src`
-
-`catkin create pkg detect_rgb --catkin-deps rospy cv_bridge`
-
-`cd detect_rgb`
-
-`mkdir nodes`
-
-Puis dans le fichier **nodes** vous ajoutez le fichier **main_detect.py**
-
-> Si vous n'avez pas les droits :
+> Si vous n'avez pas les droits le fichier **main_detect.py**
 
 `chmod u+x nodes/main_detect.py`
 
