@@ -24,7 +24,7 @@ Construire le package
 
 `catkin build`
 
-Pour tester l'ensemble :
+**Pour tester l'ensemble :**
 
 Terminale 1 `roscore` 
 
