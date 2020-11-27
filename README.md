@@ -1,4 +1,4 @@
-# Comment installer votre environment
+# Comment installer votre environnement
 
 > Si vous ne travaillez pas dans catkin_ws à vous d'adapter votre chemin. 
 
