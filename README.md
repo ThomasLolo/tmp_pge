@@ -22,7 +22,10 @@ Construire le package
 
 `catkin build`
 
-`source devel/setup.bash`
+
+>Si besoin : 
+>`cd ~/catkin_ws/src`
+>`source devel/setup.bash`
 
 **Pour tester l'ensemble :**
 
