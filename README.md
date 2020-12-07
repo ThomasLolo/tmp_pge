@@ -22,6 +22,8 @@ Construire le package
 
 `catkin build`
 
+`source devel/setup.bash`
+
 **Pour tester l'ensemble :**
 
 Terminale 1 `roscore`
