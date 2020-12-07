@@ -24,7 +24,7 @@ Construire le package
 
 
 >Si besoin : 
->`cd ~/catkin_ws/src`
+>`cd ~/catkin_ws/`
 >`source devel/setup.bash`
 
 **Pour tester l'ensemble :**
